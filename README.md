@@ -24,9 +24,9 @@ A modern Flutter mobile application that displays recipes from TheMealDB API, al
 
 ## Screenshots
 
-<img src=".resources/Screenshot_20251124_235822.png" width="50%">
-<img src=".resources/Screenshot_20251124_235913.png" width="50%">
-<img src=".resources/Screenshot_20251124_235859.png" width="50%">
+<img src="resources/Screenshot_20251124_235822.png" width="50%">
+<img src="resources/Screenshot_20251124_235913.png" width="50%">
+<img src="resources/Screenshot_20251124_235859.png" width="50%">
 
 ## Technologies
 
