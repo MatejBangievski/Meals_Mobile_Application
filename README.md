@@ -20,7 +20,6 @@ A modern Flutter mobile application that displays recipes from TheMealDB API, al
     * Shows image, name, category, area, cooking instructions.
     * Ingredients displayed in a neat list with quantity measures.
     * Opens YouTube video tutorial if available.
-    * Modern card layout with rounded images and padding.
 
 ## Screenshots
 
